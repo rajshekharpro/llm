@@ -1,0 +1,10 @@
+torch>=2.0
+datasets
+transformers
+gensim
+numpy
+pandas
+matplotlib
+tqdm
+evaluate
+wandb  # optional: comment out if you don't want it

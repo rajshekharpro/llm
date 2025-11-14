@@ -1,0 +1,13 @@
+--2025-11-14 12:03:20--  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-keyring_1.1-1_all.deb
+Resolving developer.download.nvidia.com (developer.download.nvidia.com)... 96.17.182.75, 96.17.182.218
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|96.17.182.75|:443... failed: Connection timed out.
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|96.17.182.218|:443... failed: Connection timed out.
+Retrying.
+
+--2025-11-14 12:07:43--  (try: 2)  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-keyring_1.1-1_all.deb
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|96.17.182.75|:443... failed: Connection timed out.
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|96.17.182.218|:443... failed: Connection timed out.
+Retrying.
+
+--2025-11-14 12:12:06--  (try: 3)  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-keyring_1.1-1_all.deb
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|96.17.182.75|:443... 
